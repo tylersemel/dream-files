@@ -1,2 +1,18 @@
 # Dream_Files
-This is a game about Agent Magus Mutus and how he explores a criminal's dreams. Made with Unreal Engine 5. 
+This is a game about Agent Magus Mutus and how he explores a criminal's dreams. This project was a team effort in order to meet the brief of "Not all who wander are lost."
+
+## Features
+- Puzzle-solving levels
+- Unlock new abilities with each level
+- Launch cubes
+- Blow away fog
+- Jump high to parkour
+
+## Tools
+- **AWS**: For originally storing progress and working with two other developers
+- **Unreal Engine 5**: The game engine used to create blueprints and C++ code
+- **Quixel Bridge**: For in game assets
+
+  
+
+
