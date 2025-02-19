@@ -1,6 +1,12 @@
 # Dream_Files
 This is a game about Agent Magus Mutus and how he explores a criminal's dreams. This project was a team effort in order to meet the brief of "Not all who wander are lost."
 
+## Instructions for Installation
+1. Download this repository as a zip file
+2. Unzip the file
+3. Click on the .exe file
+4. Play the game!
+
 ## Features
 - Puzzle-solving levels
 - Unlock new abilities with each level
