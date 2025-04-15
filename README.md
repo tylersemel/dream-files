@@ -1,4 +1,4 @@
-# Dream_Files
+# Dream Files
 This is a game about Agent Magus Mutus and how he explores a criminal's dreams. This project was a team effort in order to meet the brief of "Not all who wander are lost."
 
 ## Instructions for Installation
